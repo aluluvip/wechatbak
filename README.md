@@ -35,8 +35,8 @@
 1. 克隆或下载此仓库
 
 ```bash
-git clone https://github.com/yourusername/wechat-backup-tool.git
-cd wechat-backup-tool
+git clone https://github.com/aluluvip/wechatbak.git
+cd wechatbak
 ```
 
 2. 安装依赖（本工具仅使用Python标准库，无需额外依赖）
